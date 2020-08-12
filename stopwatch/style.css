@@ -1,0 +1,44 @@
+h1{
+    
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 60px;
+    color: #000080;
+    width: 100px;
+    
+    background-color: azure;
+    border-radius: 200px;
+    
+    
+
+   
+}
+body{
+    text-align: center;
+    padding-top:25px;
+    background-color: rgb(128, 255, 0);
+}
+
+button{
+    padding: 10px;
+    width: 90px;
+    margin-top: 20px;
+    font-size: x-large;
+    border-radius: 200px;
+    background-color: #000080;
+    color: whitesmoke;
+    margin-left: 5px;
+
+
+}
+
+.heading {
+    margin-bottom: 100px;
+    
+}
+
+.heading h1 {
+    color: rgb(8, 8, 8);
+    background-color: rgb(128, 255, 0);
+    display: inline;
+}
